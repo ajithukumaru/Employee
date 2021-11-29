@@ -16,7 +16,9 @@ public void empMail() {
 private void empAddress() {
 	System.out.println("empAddress");
 }
-
+public void empKumar() {
+System.out.println("kumar");	
+}
 
 
 
@@ -28,6 +30,7 @@ public static void main(String[]args) {
 			v.empPhone();
 			v.empMail();
 			v.empAddress();
+			v.empKumar();
 }
 
 
